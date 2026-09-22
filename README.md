@@ -21,7 +21,7 @@ Pomáhám převádět konkrétní provozní problémy do funkčních technickýc
 
 ## Portfolio
 
-[Profesní portfolio — zdrojový projekt](https://github.com/krsnak/roman-krsnak-portfolio)
+[Profesní portfolio](https://roman-krsnak-portfolio.pages.dev) · [zdrojový projekt](https://github.com/krsnak/roman-krsnak-portfolio)
 
 ## Kontakt
 
