@@ -50,3 +50,5 @@ for cid, name in CHANNELS:
     lines += [f'#EXTINF:-1 tvg-id="{cid}" group-title="TV Program CZ",{name}', "https://example.invalid/" + cid]
 (OUT / "guide.m3u").write_text("\n".join(lines) + "\n", encoding="utf-8")
 print("generated", len(CHANNELS), "channels", sum(1 for x in out if x.tag == "programme"), "programmes")
+
+# Triggered by repository workflow.
