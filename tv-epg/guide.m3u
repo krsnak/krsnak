@@ -1,0 +1,37 @@
+#EXTM3U url-tvg="https://raw.githubusercontent.com/krsnak/krsnak/main/tv-epg/epg.xml"
+#EXTINF:-1 tvg-id="ČT1.cz" group-title="TV Program CZ",ČT1
+https://example.invalid/ČT1.cz
+#EXTINF:-1 tvg-id="ČT2.cz" group-title="TV Program CZ",ČT2
+https://example.invalid/ČT2.cz
+#EXTINF:-1 tvg-id="ČT24.cz" group-title="TV Program CZ",ČT24
+https://example.invalid/ČT24.cz
+#EXTINF:-1 tvg-id="ČT.sport.cz" group-title="TV Program CZ",ČT sport
+https://example.invalid/ČT.sport.cz
+#EXTINF:-1 tvg-id="ČT.:D.cz" group-title="TV Program CZ",ČT :D
+https://example.invalid/ČT.:D.cz
+#EXTINF:-1 tvg-id="Nova.cz" group-title="TV Program CZ",Nova
+https://example.invalid/Nova.cz
+#EXTINF:-1 tvg-id="Nova.Cinema.cz" group-title="TV Program CZ",Nova Cinema
+https://example.invalid/Nova.Cinema.cz
+#EXTINF:-1 tvg-id="Nova.Action.cz" group-title="TV Program CZ",Nova Action
+https://example.invalid/Nova.Action.cz
+#EXTINF:-1 tvg-id="Nova.Fun.cz" group-title="TV Program CZ",Nova Fun
+https://example.invalid/Nova.Fun.cz
+#EXTINF:-1 tvg-id="Nova.Lady.cz" group-title="TV Program CZ",Nova Lady
+https://example.invalid/Nova.Lady.cz
+#EXTINF:-1 tvg-id="Prima.cz" group-title="TV Program CZ",Prima
+https://example.invalid/Prima.cz
+#EXTINF:-1 tvg-id="Prima.Cool.cz" group-title="TV Program CZ",Prima COOL
+https://example.invalid/Prima.Cool.cz
+#EXTINF:-1 tvg-id="Prima.LOVE.cz" group-title="TV Program CZ",Prima LOVE
+https://example.invalid/Prima.LOVE.cz
+#EXTINF:-1 tvg-id="Prima.Krimi.cz" group-title="TV Program CZ",Prima Krimi
+https://example.invalid/Prima.Krimi.cz
+#EXTINF:-1 tvg-id="Prima.MAX.cz" group-title="TV Program CZ",Prima MAX
+https://example.invalid/Prima.MAX.cz
+#EXTINF:-1 tvg-id="Prima.ZOOM.cz" group-title="TV Program CZ",Prima ZOOM
+https://example.invalid/Prima.ZOOM.cz
+#EXTINF:-1 tvg-id="Prima.Show.cz" group-title="TV Program CZ",Prima Show
+https://example.invalid/Prima.Show.cz
+#EXTINF:-1 tvg-id="CNN.Prima.News.cz" group-title="TV Program CZ",CNN Prima News
+https://example.invalid/CNN.Prima.News.cz
